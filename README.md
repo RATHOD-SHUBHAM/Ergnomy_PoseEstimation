@@ -11,3 +11,9 @@ The MediaPipe Pose Landmarker task lets you detect landmarks of human bodies in 
 MediaPipe Pose is a single-person pose estimation framework. It uses BlazePose 33 landmark topology. BlazePose is a superset of COCO keypoints, Blaze Palm, and Blaze Face topology. It works in two stages – detection and tracking
 
 Framework: [mediapipe](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker)
+
+
+# Run Application:
+    1. Git clone this repo.
+    2. Cd to POSE folder.
+    3. Run `ergonomy.ipynb` notebook.
