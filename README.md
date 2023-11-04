@@ -20,5 +20,7 @@ Framework: [mediapipe](https://developers.google.com/mediapipe/solutions/vision/
 
 
 
-https://github.com/RATHOD-SHUBHAM/Ergnomy_PoseEstimation/assets/58945964/06d9eccc-7487-4433-92a1-28d9afc2d736
+
+https://github.com/RATHOD-SHUBHAM/Ergnomy_PoseEstimation/assets/58945964/b94c88ff-8d6a-4d3f-a5ce-b8a417365ac8
+
 
