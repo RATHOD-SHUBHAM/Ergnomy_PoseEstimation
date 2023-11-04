@@ -17,3 +17,5 @@ Framework: [mediapipe](https://developers.google.com/mediapipe/solutions/vision/
     1. Git clone this repo.
     2. Cd to POSE folder.
     3. Run `ergonomy.ipynb` notebook.
+
+https://github.com/RATHOD-SHUBHAM/Ergnomy_PoseEstimation/assets/58945964/0bd9c8cb-aa16-401c-9437-05bcdb9be5a6
