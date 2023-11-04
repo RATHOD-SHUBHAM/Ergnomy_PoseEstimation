@@ -19,8 +19,4 @@ Framework: [mediapipe](https://developers.google.com/mediapipe/solutions/vision/
     3. Run `ergonomy.ipynb` notebook.
 
 
-
-
-https://github.com/RATHOD-SHUBHAM/Ergnomy_PoseEstimation/assets/58945964/b94c88ff-8d6a-4d3f-a5ce-b8a417365ac8
-
-
+[badPostureOutput.webm](https://github.com/RATHOD-SHUBHAM/Ergnomy_PoseEstimation/assets/58945964/97b51e2d-0639-4ac5-b30a-e00241ee03cd)
